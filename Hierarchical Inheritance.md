@@ -28,8 +28,8 @@ To write a Python program to get the employee and doctor details and display the
 
 ### PROGRAM
 ```
-# REGNO:-212222060173
-# Name:-Pavithra K
+# REGNO:-212222060163
+# Name:-NIRAIMATHIYAN TV
 class Parent:
    def __init__(self,name):
      self.name = name
